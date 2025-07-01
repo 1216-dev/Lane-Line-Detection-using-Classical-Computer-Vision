@@ -18,7 +18,7 @@ This project implements a basic computer vision pipeline to detect lane lines in
 ## 🎥 Output Video
 
 Watch the lane detection in action:  
-▶️ [Click here to view output video]([./lane_output.mp4](https://github.com/1216-dev/Lane-Line-Detection-using-Classical-Computer-Vision/blob/main/solidYellowLeft.mp4))
+▶️ [Click here to view output video](https://github.com/1216-dev/Lane-Line-Detection-using-Classical-Computer-Vision/blob/main/solidYellowLeft.mp4)
 
 <!-- For GitHub Pages or local preview -->
 <!--
