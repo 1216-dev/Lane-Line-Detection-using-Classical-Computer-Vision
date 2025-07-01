@@ -5,7 +5,7 @@ A computer vision pipeline for detecting lane lines in road images using traditi
 
 This project implements a basic computer vision pipeline to detect lane lines in road images. It uses traditional image processing techniques such as color filtering, region of interest masking, and gradient filtering.
 
-![Demo](https://user-images.githubusercontent.com/your-github/demo-lane.png)
+![Demo](https://github.com/1216-dev/Lane-Line-Detection-using-Classical-Computer-Vision/blob/main/outputs.png)
 
 ---
 
